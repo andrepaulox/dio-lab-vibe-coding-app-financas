@@ -117,4 +117,4 @@ Algumas funcionalidades solicitadas ao Lovable não rodaram bem, como por exempl
 
 ### O que aprendeu sobre conversar com IAs?
 Aprendi que é possível utilizar uma linguagem comum, normalmente utilizada com seres humanos durante nossas interações diárias, para poder criar projetos, soluções e ferramentas robustas que podem contribuir e muito no dia a dia das pessoas. Percebi também que, além de treinarmos cada vez mais as IAs para poderem nos atender melhor, também é necessário nos treinarmos também para podermos pedir melhor as coisas para as IAs.
-```
+
