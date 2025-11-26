@@ -1,6 +1,10 @@
 # 💸 App de Organização Financeira com Vibe Coding
 
-PRD Refinado no Copilot Web:
+Este projeto foi desenvolvido para atender ao Desafio de Projeto da DIO de Vibe Coding utilizando o Copilot Web e o Lovable. O intuito foi criar um aplicativo para poder organizar a vida financeira das pessoas, com base em diversas interações com as IAs por meio de linguagem natural.
+
+---
+
+## 📘 PRD Refinado no Copilot Web
 
 ```markdown
 Product Requirements Document (PRD)
@@ -52,51 +56,58 @@ Principais telas:
 - Avaliar acessibilidade e usabilidade em diferentes perfis de usuários.
 ```
 
+---
 
-Intrações com o Lovable: https://meu-dinheiro-conversa.lovable.app/
-> Crie um App de Finanças Pessoais com base no seguinte PRD (Producto Requirementes Document): {PRD}
+## 🧪 Interações com o Lovable
 
-> registrei duas despesas, mas não constam no relatório
+- https://meu-dinheiro-conversa.lovable.app/
 
+### Exemplos de comandos utilizados:
+> Crie um App de Finanças Pessoais com base no seguinte PRD (Producto Requirementes Document): {PRD}  
+> registrei duas despesas, mas não constam no relatório  
 > em relatórios, não estão sendo considerados todos os gastos informados, além disso ele replicou o primeiro gasto informado
 
-Resultado Final no Lovable: 
+---
+
+## 📸 Resultado Final no Lovable
+
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4ba1864c-31bc-4c09-a7b0-0d2f762b8ae9" />
-
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b0e80477-5892-42e7-8cf2-96e1cf4f6609" />
-
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/1a920a2a-22a9-480b-89a4-2c397398ac1f" />
 
-## Funcionalidades do FinançasIA
+---
+
+## ⚙️ Funcionalidades do FinançasIA
 
 O FinançasIA é um aplicativo de organização financeira pessoal que funciona por meio de conversas em linguagem natural. A proposta é tornar o controle de finanças mais acessível, intuitivo e inclusivo.
 
 ### Principais funcionalidades
 
-- **Registro de transações via chat**
+- **Registro de transações via chat**  
   Registre gastos, ganhos, transferências e investimentos com frases simples, como "gastei R$79,90 no mercado".
 
-- **Classificação automática**
+- **Classificação automática**  
   O app identifica e organiza as transações por categoria (ex.: alimentação, saúde, transporte).
 
-- **Assistente financeiro inteligente**
+- **Assistente financeiro inteligente**  
   Um agente virtual interativo ajuda o usuário a registrar dados, entender seus hábitos e receber sugestões de economia.
 
-- **Visualização de dados**
+- **Visualização de dados**  
   Gráficos e relatórios personalizados mostram a evolução dos gastos, metas e categorias.
 
-- **Metas financeiras**
+- **Metas financeiras**  
   Defina objetivos como economizar um valor mensal e acompanhe seu progresso.
 
-- **Design universal**
+- **Design universal**  
   Interface acessível e inclusiva, pensada para oferecer boa experiência a usuários com diferentes perfis e necessidades.
 
 ### Experiência conversacional
 
 A interação é contínua e natural, com o assistente mantendo o contexto da conversa e incentivando o usuário a explorar suas finanças de forma leve e educativa.
 
+---
 
-## Reflexão
+## 🧠 Reflexão
 
 ### O que funcionou bem?
 O Copilot foi bem eficiente ao realizar o refinamento do PRD, trouxe exatamente as informações necessárias para iniciar o esboço junto o Lovable para desenvolvimento do "sistema". Além disso, o Lovable também surpreendeu ao trazer um sistema leve e extremamente eficaz.
@@ -106,3 +117,6 @@ Algumas funcionalidades solicitadas ao Lovable não rodaram bem, como por exempl
 
 ### O que aprendeu sobre conversar com IAs?
 Aprendi que é possível utilizar uma linguagem comum, normalmente utilizada com seres humanos durante nossas interações diárias, para poder criar projetos, soluções e ferramentas robustas que podem contribuir e muito no dia a dia das pessoas. Percebi também que, além de treinarmos cada vez mais as IAs para poderem nos atender melhor, também é necessário nos treinarmos também para podermos pedir melhor as coisas para as IAs.
+```
+
+Se quiser, posso te ajudar a criar uma versão em inglês ou adicionar uma seção de instruções para quem quiser testar ou contribuir com o projeto.
